@@ -15,7 +15,7 @@ This script is designed to find whether "zawgyi-one" is installed or not to deci
 ### Setp 3 - Find Zawgyi
 window.onload = function () { <br/>
 	detectZawgyi.start(); //be sure after pageLoad<br/>
-	zginstalled=detectZawgyi.found("zawgyi-one");<br/>
+	var zginstalled=detectZawgyi.found("zawgyi-one");<br/>
 	console.log(zginstalled);alert(zginstalled);<br/>
 }	
 
