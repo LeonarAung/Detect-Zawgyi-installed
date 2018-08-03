@@ -13,11 +13,11 @@ This Javascript is designed to find whether it is installed "zawgyi-one". To dec
 
 
 ### Setp 3 - Find Zawgyi
-window.onload = function () { 
-	detectZawgyi.start(); //be sure after pageLoad
-	zginstalled=detectZawgyi.found("zawgyi-one");
-	console.log(zginstalled);alert(zginstalled);
-	$("#res").text("ZawGyi installed = "+zginstalled);
+window.onload = function () { <br/>
+	detectZawgyi.start(); //be sure after pageLoad<br/>
+	zginstalled=detectZawgyi.found("zawgyi-one");<br/>
+	console.log(zginstalled);alert(zginstalled);<br/>
+	$("#res").text("ZawGyi installed = "+zginstalled);<br/>
 }	
 
 
