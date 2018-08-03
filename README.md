@@ -19,7 +19,8 @@ window.onload = function () { <br/>
 	console.log(zginstalled);alert(zginstalled);<br/>
 }	
 
-## Commercial Usage,websites that including ads,sell something, is not allowed for 'Detect_Zawgyi_installed'. Contact leonaraung1990@gmail.com to buy it.
+## Our Policy
+Commercial Usage,websites that including ads,sell something, is not allowed for 'Detect_Zawgyi_installed'. Contact to developer .
 
 ## Author
 
