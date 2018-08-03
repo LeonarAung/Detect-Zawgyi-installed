@@ -7,17 +7,19 @@ This Javascript is designed to find whether it is installed "zawgyi-one". To dec
 Step 1 ### include jquery
 <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 
+
 Step 2 ### include script
 <script src="https://cdn.rawgit.com/LeonarAung/Detect_Zawgyi_installed/3383a119/zg_detect.js"></script>
 
-Setp 3 ### Find Zawgyi
 
+Setp 3 ### Find Zawgyi
 window.onload = function () { 
 	detectZawgyi.start(); //be sure after pageLoad
 	zginstalled=detectZawgyi.found("zawgyi-one");
 	console.log(zginstalled);alert(zginstalled);
 	$("#res").text("ZawGyi installed = "+zginstalled);
 }	
+
 
 ## Author
 
