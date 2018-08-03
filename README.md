@@ -17,7 +17,6 @@ window.onload = function () { <br/>
 	detectZawgyi.start(); //be sure after pageLoad<br/>
 	zginstalled=detectZawgyi.found("zawgyi-one");<br/>
 	console.log(zginstalled);alert(zginstalled);<br/>
-	$("#res").text("ZawGyi installed = "+zginstalled);<br/>
 }	
 
 
