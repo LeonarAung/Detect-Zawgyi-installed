@@ -20,7 +20,7 @@ window.onload = function () { <br/>
 }	
 
 ## Our Policy
-Commercial Usage,websites that including ads,sell something, is not allowed for 'Detect_Zawgyi_installed'. Contact to developer .
+Commercial Usage,websites that including ads,sell something, is not allowed for 'Detect_Zawgyi_installed' to use free of charge . Contact to developer .
 
 ## Author
 
