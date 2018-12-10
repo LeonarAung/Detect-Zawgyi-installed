@@ -9,7 +9,7 @@ This script is designed to find whether "zawgyi-one" is installed or not to deci
 
 
 ### Step 2 - include script
-<script src="https://cdn.rawgit.com/LeonarAung/Detect_Zawgyi_installed/3383a119/zg_detect.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/LeonarAung/Detect_Zawgyi_installed@3383a119/zg_detect.js"></script>
 
 
 ### Setp 3 - Find Zawgyi
